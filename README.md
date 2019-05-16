@@ -1,1 +1,3 @@
-# 2019.1-GaloDex-Backend
+# galodex-api
+
+A quick description of galodex-api.
