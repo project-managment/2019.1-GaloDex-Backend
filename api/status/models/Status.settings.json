@@ -1,0 +1,18 @@
+{
+  "connection": "default",
+  "collectionName": "statuses",
+  "info": {
+    "name": "status",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "status": {
+      "type": "string"
+    }
+  }
+}
